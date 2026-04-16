@@ -8,7 +8,6 @@ if (helado === "chocolate") {
   alert("Awwww, pero mi favorito es el de chocolate...");
 }
 
-
 document.querySelector("html").onclick = function () {
   alert("¡Ouch! ¡Deja de pincharme!");
 };
